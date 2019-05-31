@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">CapstoneStageTwo</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="suggestions">suggestions</string>
+    <string name="suggestedrating">Suggested Rating :</string>
+    <string name="movie_title">Movie Title:</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="release_date">Release Date:</string>
+    <string name="movie_release_date">Movie Release Date</string>
+    <string name="average_votes">Average votes:</string>
+    <string name="_7_5">7.5</string>
+    <string name="summary">Summary:</string>
+    <string name="movie_summary">Movie Summary</string>
+    <string name="popularity">Popularity:</string>
+    <string name="average">average</string>
+    <string name="vote_average">Vote Average:</string>
+    <string name="suggest_this_film">Suggest this film</string>
+    <string name="enter_your_password_here_to_signin">Enter Your Password here to Signin</string>
+
+    <string name="enter_your_email_here_to_signin">Enter Your Email here to Signin</string>
+    <string name="login">login</string>
+    <string name="dont_have_an_account">Dont have an Account ?</string>
+    <string name="register_here">register here</string>
+    <string name="registerhere">Enter Your Password here to Register</string>
+
+    <string name="enter_your_email_here_to_register">Enter Your Email here to Register</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an Account ?</string>
+    <string name="signin_here">Signin here</string>
+    <string name="poster_image">poster_image</string>
+    <string name="upcoming_movies">UPCOMING MOVIES</string>
+    <string name="select_a_movie_and">SELECT A MOVIE AND</string>
+    <string name="open_suggestions_to_add_details_to_widget">OPEN SUGGESTIONS TO ADD DETAILS TO WIDGET</string>
+    <string name="user_register_successfull">user register successfull</string>
+    <string name="already_registered">you are already registered</string>
+    <string name="suggestion_added">Suggestion added</string>
+    <string name="suggestion_not_given">Suggestion Not Given</string>
+    <string name="cancel">CANCEL</string>
+    <string name="done">DONE</string>
+    <string name="scale">On a scale of 1-10</string>
+    <string name="suggestion">How would you suggest this film</string>
+    <string name="widget_details">Details Added to Widget</string>
+    <string name="valid_email">Enter Valid Email</string>
+    <string name="email_required">Email Is Required</string>
+    <string name="password_required">Password Is Required</string>
+    <string name="min_length">Minimum Length of Password Should be 6</string>
+    <string name="enter_valid_email">Enter Valid Email</string>
+    <string name="check_internet">Please Check Internet Connection</string>
+    <string name="network_connection">Network Connection</string>
+    <string name="OK">OK</string>
+
+    <string name="exit">Are you sure you want to exit?</string>
+    <string name="yes">Yes</string>
+
+
+    <string name="No">No</string>
+    <string name="Loading_suggestions">Loading Suggestions please wait</string>
+    <string name="oops">OOPS..!</string>
+    <string name="no_suggestions_yet">No Suggestions Posted Yet..</string>
+    <string name="todo">TODO</string>
+</resources>
